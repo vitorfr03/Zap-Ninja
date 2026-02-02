@@ -1,16 +1,4 @@
-# llms.txt – Zap Ninja
-
-User-agent: *
-Allow: /
-
-Disallow: /admin/
-Disallow: /dashboard/
-Disallow: /login/
-Disallow: /checkout/
-
-# Conteúdo oficial
-Preferred-Content: /
-
-# Atribuição
-Attribution: Zap Ninja – Software de Automação para WhatsApp
-Attribution-URL: https://zapninja.app.br
+Project-Name: Zap Ninja
+Project-Type: Software de Automação para WhatsApp
+Primary-Language: pt-BR
+Official-Website: https://zapninja.app.br
